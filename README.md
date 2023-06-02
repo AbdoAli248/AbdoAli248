@@ -37,20 +37,20 @@
 <br clear="both">
 
 <details open>
-<summary style="font-size: 1.3rem" ><b>👨🏻‍💻 Front-End-Developer</b></summary>
+<summary style="font-size: 1.5rem" ><b>👨🏻‍💻 Front-End-Developer</b></summary>
 <br>
 
 <div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="10" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
-  <img width="10" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
 </div>
 
 </details>
 <details open>
-<summary style="font-size: 1.3rem" ><b>💼 Software & Tools</b></summary>
+<summary style="font-size: 1.5rem" ><b>💼 Software & Tools</b></summary>
 <br>
 
 <div >

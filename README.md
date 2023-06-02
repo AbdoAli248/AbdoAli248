@@ -64,15 +64,3 @@
 </div>
 
 </details>
-
-###
-
-<br clear="both">
-
-<h3 align="center">_____________________________________</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoali24&show_icons=true&locale=en&layout=compact" alt="abdoali24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoali24&show_icons=true&locale=en" alt="abdoali24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoali24&" alt="abdoali24" /></p>

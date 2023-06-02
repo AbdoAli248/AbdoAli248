@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://lh3.googleusercontent.com/fife/APg5EOYaUwGH18HBN8B6ptwd7yMgc6g9AJ2w1vdNa1B5m3uFpAZBe5RyRISNfkkCggq4O_UnGHrUfHnF4z16PIZcg2Gf06LwTKlnN3sUMELN7zb-T2FdWOZhDMESpF1tXV8c71BlS9l2YG89KadPS31Ws9_RG08GqitbhpBXHCq4K_ms892Mf8bFORli66x9qQb2o6oYNQ0Hs-rdwKdrFXb5FHXKJFUzYkdMiPeH454p4mAssXwL3SPmE0kn0MdkqEsLUjfqID9FWN_mOX-LgDEzu8LKaYqGvufZlpzRj5Wym2nZZfYaLpRFFmuSeYoN86mFBiVSI-a7unZObFh4JBannc9zTbJNM7s9qP_0OjsJLGqUPHni1MCkVCKIAIcTW3PfHQSxlUdIeYppQ-jFsXCW6lJ8HmD4M36UGwIxzguKPRkJ6Ye-CjofZyujur7U6nxX0J0biVrcSIFJ85PMoz4t7PdlsZ9B9nzFbjWNdmqNG4YSlqWmOXqlpOgIWVa-FnbQs9M9arYS97nckLm77_3_Pg2SG9qskxzUkziIjD3w2mvUNGMjv12Ef8-72q8_w1Yixq2v_4nzni6-v2_B10V2-_boxzKbaoKqFOTBWF-9CqKosjFsVnNmBD8fFCqJnjWPvwaa00Af7WZ6TVW4_p6AjOphVQjKnDGEmUMEAY1R0RLshpXtU5BDeDmnP7kQ9qnEGRN8DvB7MwRoWawnPQEQR6v_XXTxnmDiwP786kva1-0h-Ge5_VyFDk1IEVXCkN79pzawdSbL3VX7mjHqxiDoPocajpxcado5SOo_57wGxULL4SGgGLj90mY5FUIzSpW3x5vAxQuw_BQqp7ZizHWlrQ6D3xIimkEIU3xIJUjh74YgVZ5bxMwSb84Vu3CHp8A67TTYCGQqEPLotPGszPnFDgUmhTGmfzLMbcooJEVZbpTHs99ychDQNsOWOXzzMnfABoxRqCnLmJrJHlN8TdXiJHLIEDU5Isdn1VOAuL0qkQjVoez3xUo=w1680-h907"  />
-</div>
 <h1 align="center">👋🏻 Hi, I'm Abd-Elrahamn Ali Ahmed</h1>
 <h3 align="center">A Junior Frontend Developer From Egypt</h3>
 
@@ -16,6 +13,10 @@
   </a>
 </div>
 <hr>
+
+<br clear="both">
+
+<img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 - 👦🏻 I'm 13 Years Old
 

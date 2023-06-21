@@ -24,7 +24,7 @@
 
 - 👨‍💻 I'm Made Some Projects In <a href="https://www.frontendmentor.io/profile/AbdoAli248" title="Show My Projects" > **Frontedmentor** </a>
 
-- ⏩ I'm Write 45 Word In One Minute
+- ⏩ I'm Write 45 Word In English\Arabic In One Minute
 
 - 📫 How to reach me **abdoali3443@gmail.com**
 

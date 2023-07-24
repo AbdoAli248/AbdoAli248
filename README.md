@@ -17,6 +17,7 @@
 <br clear="both">
 
 <img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
 - 👦🏻 I'm 13 Years Old
 
 - 🌱 I’m currently learning **JavaScript**

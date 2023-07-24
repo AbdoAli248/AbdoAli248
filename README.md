@@ -17,8 +17,6 @@
 <br clear="both">
 
 <img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-<p align="left"> ![image title](https://rushter.com/counter.svg) </p>
-
 - 👦🏻 I'm 13 Years Old
 
 - 🌱 I’m currently learning **JavaScript**

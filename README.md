@@ -17,7 +17,7 @@
 <br clear="both">
 
 <img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-EslamEzzat&color=yellow" alt="watching_count" /> </p>
+<p align="left"> ![image title](https://rushter.com/counter.svg) </p>
 
 - 👦🏻 I'm 13 Years Old
 

@@ -62,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
 </div>
 </div>
+<br>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoali248&show_icons=true&locale=en&layout=compact" alt="abdoali248" /></p>
 
 </details>

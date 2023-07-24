@@ -66,4 +66,7 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoali248&show_icons=true&locale=en&layout=compact" alt="abdoali248" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoali248&show_icons=true&locale=en" alt="abdoali248" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoali248&" alt="abdoali248" /></p>
 </details>

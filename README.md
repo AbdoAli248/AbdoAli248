@@ -18,17 +18,17 @@
 
 <img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-- 👦🏻 I'm 13 Years Old
+- 👦🏻 I'm 14 Years Old
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 I'm Made Some Projects In <a href="https://www.frontendmentor.io/profile/AbdoAli248" title="Show My Projects" > **Frontedmentor** </a>
 
-- ⏩ I'm Write 45 Word In English\Arabic In One Minute
+- ⏩ I'm Write 60 Words in English\Arabic In One Minute
 
 - 📫 How to reach me **abdoali3443@gmail.com**
 
-- 💫 I'm Very Interested With Productivy Systems
+- 💫 I'm Very Interested In Productivity Systems
 
 <h2 >🛠️ Languages and Tools</h2>
 

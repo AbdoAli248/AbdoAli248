@@ -18,8 +18,6 @@
 
 <img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-- 👦🏻 I'm 14 Years Old
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 I'm Made Some Projects In <a href="https://www.frontendmentor.io/profile/AbdoAli248" title="Show My Projects" > **Frontedmentor** </a>
